@@ -18,6 +18,7 @@ py -m venv venv
 
 sur linux
 ```
+python3 -m venv venv
 source venv/bin/activate
 ```
 
